@@ -2,7 +2,8 @@
 Select a random video from a random subscription from your Pornhub account.
 
 # Configuration
-Rename `config.yaml.example` to `config.yaml` and update the credentials in that file.
+WARNING: Only Linux is supported as of now. Why? Because I am lazy. 
+Rename `config.yaml.example` to `config.yaml`, move it to `~/.config/sacira/`, then update the credentials in that file.
 
 # Command-Line Arguments
 ```
