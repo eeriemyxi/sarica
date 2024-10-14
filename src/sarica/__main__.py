@@ -38,6 +38,8 @@ def main() -> None:
     selected_video = get_random_video(selected_channel.videos)
     print("Selected video:", selected_video.title)
     print("Opening the video link in your default browser...")
+    if constants.IS_ANDROID:
+        webbrowser.register("termux-open-url '%s'", None)
     webbrowser.open(selected_video.url)
 
 
