@@ -1,6 +1,6 @@
 [project]
 name = "sarica"
-version = "0.1.0"
+version = "0.2.0"
 description = "Select a random video from a random Pornhub subscription."
 authors = [
     { name = "myxi", email = "myxi@envs.net" }
