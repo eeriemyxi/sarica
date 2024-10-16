@@ -1,6 +1,17 @@
 # Sarica 
 Select a random video from a random subscription from your Pornhub account.
 
+# Installation
+### First Method
+```bash
+git clone --depth 1 --branch main <REPO URL> sarica
+pip install ./sarica
+```
+### Second Method
+```bash
+pip install git+<REPO URL>@main
+```
+
 # Configuration
 WARNING: Only Linux is supported as of now. Why? Because I am lazy. 
 Rename `config.yaml.example` to `config.yaml`, move it to `~/.config/sarica/`, then update the credentials in that file.
