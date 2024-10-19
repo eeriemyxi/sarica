@@ -4,6 +4,12 @@
 
 Select a random video from a random subscription from your Pornhub account.
 
+It will work on Termux.
+
+# Features
+- command-line interface
+- open the link on your default browser
+
 # Installation
 ### First Method
 ```bash
