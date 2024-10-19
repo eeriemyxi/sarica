@@ -1,4 +1,7 @@
 # Sarica 
+
+![](https://files.catbox.moe/vpr3cb.png)
+
 Select a random video from a random subscription from your Pornhub account.
 
 # Installation
